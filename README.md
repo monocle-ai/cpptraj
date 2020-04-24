@@ -23,6 +23,7 @@ CPPTRAJ is also distributed as part of the freely available AmberTools
 software package. The official AmberTools release version of CPPTRAJ can
 be found at the [Amber website](http://ambermd.org).
 
+
 For those wanting to use CPPTRAJ in their Python scripts, see
 [Pytraj](https://github.com/Amber-MD/pytraj).
 
